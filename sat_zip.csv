@@ -5,11 +5,11 @@ DBN,School Name,Average Score SAT Math,Average Score SAT Critical Reading,Averag
 01M509,Marta Valle High School,438,413,394,1245,10002,New_York
 01M539,"New Explorations into Science, Technology and Math",657,601,601,1859,10002,New_York
 01M696,Bard High School Early College,634,641,639,1914,10002,New_York
-02M047,47 The American Sign Language and English Secondar,,,,0,10010,New_York
-02M135,The Urban Assembly School for Emergency Management,,,,0,10038,New_York
-02M139,Stephen T. Mather Building Arts & Craftsmanship Hi,,,,0,10019,New_York
-02M280,Manhattan Early College School for Advertising,,,,0,10038,New_York
-02M282,Urban Assembly Maker Academy,,,,0,10038,New_York
+02M047,47 The American Sign Language and English Secondar,,,,,10010,New_York
+02M135,The Urban Assembly School for Emergency Management,,,,,10038,New_York
+02M139,Stephen T. Mather Building Arts & Craftsmanship Hi,,,,,10019,New_York
+02M280,Manhattan Early College School for Advertising,,,,,10038,New_York
+02M282,Urban Assembly Maker Academy,,,,,10038,New_York
 02M288,Food and Finance High School,428,435,421,1284,10019,New_York
 02M294,Essex Street Academy,395,411,387,1193,10002,New_York
 02M296,High School of Hospitality Management,451,433,424,1308,10019,New_York
@@ -35,10 +35,10 @@ DBN,School Name,Average Score SAT Math,Average Score SAT Critical Reading,Averag
 02M418,Millennium High School,577,560,567,1704,10004,New_York
 02M419,Landmark High School,386,386,386,1158,10011,New_York
 02M420,High School for Health Professions and Human Servi,452,445,430,1327,10003,New_York
-02M422,Quest to Learn,,,,0,10011,New_York
+02M422,Quest to Learn,,,,,10011,New_York
 02M425,Leadership and Public Service High School,390,396,392,1178,10006,New_York
 02M427,MANHATTAN ACADEMY FOR ARTS & LANGUAGE,350,334,321,1005,10016,New_York
-02M429,Legacy School for Integrated Studies,,,,0,,New_York
+02M429,Legacy School for Integrated Studies,,,,,,New_York
 02M437,Hudson High School of Learning Technologies,378,407,388,1173,10011,New_York
 02M438,International High School at Union Square,403,330,316,1049,10003,New_York
 02M439,Manhattan Village Academy,522,479,510,1511,10010,New_York
@@ -53,12 +53,12 @@ DBN,School Name,Average Score SAT Math,Average Score SAT Critical Reading,Averag
 02M520,Murry Bergtraum High School for Business Careers,418,415,398,1231,10038,New_York
 02M529,Jacqueline Kennedy Onassis High School,418,422,415,1255,10036,New_York
 02M531,Repertory Company High School for Theatre Arts,425,451,458,1334,10036,New_York
-02M533,Union Square Academy for Health Sciences,,,,0,,New_York
-02M534,Harvest Collegiate High School,,,,0,10011,New_York
+02M533,Union Square Academy for Health Sciences,,,,,,New_York
+02M534,Harvest Collegiate High School,,,,,10011,New_York
 02M542,Manhattan Bridges High School,409,360,347,1116,10019,New_York
 02M543,New Design High School,381,396,372,1149,10002,New_York
 02M545,High School for Dual Language and Asian Studies,613,453,463,1529,10002,New_York
-02M546,Academy for Software Engineering,,,,0,10003,New_York
+02M546,Academy for Software Engineering,,,,,10003,New_York
 02M551,Urban Assembly New York Harbor School,446,453,428,1327,11231,New_York
 02M580,Richard R. Green High School of Teaching,411,415,409,1235,10004,New_York
 02M600,The High School of Fashion Industries,433,442,427,1302,10011,New_York
@@ -78,26 +78,26 @@ DBN,School Name,Average Score SAT Math,Average Score SAT Critical Reading,Averag
 03M492,"High School for Law, Advocacy and Community Justic",415,417,402,1234,10023,New_York
 03M494,High School of Arts and Technology,421,428,406,1255,10023,New_York
 03M541,Manhattan / Hunter Science High School,581,531,535,1647,10023,New_York
-03M859,Special Music School,,,,0,10023,New_York
+03M859,Special Music School,,,,,10023,New_York
 03M860,Frederick Douglass Academy II Secondary School,390,384,373,1147,10026,New_York
-04M372,ESPERANZA PREPARATORY ACADEMY,,,,0,10029,New_York
+04M372,ESPERANZA PREPARATORY ACADEMY,,,,,10029,New_York
 04M409,Coalition School for Social Change,344,368,367,1079,10035,New_York
 04M435,Manhattan Center for Science and Mathematics,556,505,495,1556,10029,New_York
 04M495,Park East High School,429,433,435,1297,10029,New_York
 04M555,Central Park East High School,483,468,439,1390,10029,New_York
 04M610,Young Women's Leadership School,478,465,472,1415,10029,New_York
 04M680,"Heritage School, The",385,380,370,1135,10029,New_York
-05M157,The Urban Assembly School for Global Commerce,,,,0,10035,New_York
+05M157,The Urban Assembly School for Global Commerce,,,,,10035,New_York
 05M304,Mott Hall High School,416,445,440,1301,10030,New_York
 05M362,Columbia Secondary School,583,561,546,1690,10027,New_York
 05M367,Academy for Social Action: A College Board School,357,349,365,1071,10027,New_York
 05M369,Urban Assembly School for the Performing Arts,379,399,388,1166,10027,New_York
-05M469,Choir Academy of Harlem,,,,0,,New_York
+05M469,Choir Academy of Harlem,,,,,,New_York
 05M499,Frederick Douglass Academy,463,452,450,1365,10039,New_York
 05M670,Thurgood Marshall Academy for Learning and Social,402,394,400,1196,10030,New_York
 05M685,Bread & Roses Integrated Arts High School,376,375,370,1121,10030,New_York
 05M692,"High School for Mathematics, Science and Engineeri",683,610,596,1889,10031,New_York
-06M211,Inwood Early College for Health and Information Te,,,,0,10034,New_York
+06M211,Inwood Early College for Health and Information Te,,,,,10034,New_York
 06M293,City College Academy of the Arts,495,445,450,1390,10040,New_York
 06M346,Community Health Academy of the Heights,387,389,385,1161,10032,New_York
 06M348,Washington Heights Expeditionary Learning School,443,423,434,1300,10033,New_York
@@ -108,42 +108,42 @@ DBN,School Name,Average Score SAT Math,Average Score SAT Critical Reading,Averag
 06M540,A. Philip Randolph Campus High School,459,453,447,1359,10031,New_York
 06M552,Gregorio Luperon High School for Science and Mathe,383,355,352,1090,10032,New_York
 07X221,South Bronx Preparatory: A College Board School,419,414,394,1227,10454,Bronx
-07X223,M.S. 223 The Laboratory School of Finance and Tech,,,,0,10454,Bronx
-07X259,"H.E.R.O. High (Health, Education, and Research Occ",,,,0,10455,Bronx
+07X223,M.S. 223 The Laboratory School of Finance and Tech,,,,,10454,Bronx
+07X259,"H.E.R.O. High (Health, Education, and Research Occ",,,,,10455,Bronx
 07X334,International Community High School,345,338,312,995,10454,Bronx
 07X427,Community School for Social Justice,380,382,362,1124,10451,Bronx
 07X473,Mott Haven Village Preparatory High School,377,373,369,1119,10455,Bronx
 07X495,University Heights Secondary School,420,446,424,1290,10455,Bronx
 07X500,Hostos-Lincoln Academy of Science,463,451,435,1349,10455,Bronx
-07X520,Foreign Language Academy of Global Studies,,,,0,,Bronx
-07X522,Bronx Design and Construction Academy,,,,0,,Bronx
+07X520,Foreign Language Academy of Global Studies,,,,,,Bronx
+07X522,Bronx Design and Construction Academy,,,,,,Bronx
 07X527,Bronx Leadership Academy II High School,384,355,361,1100,10451,Bronx
 07X547,New Explorers High School,390,398,376,1164,10451,Bronx
 07X548,Urban Assembly School for Careers in Sports,402,405,395,1202,10451,Bronx
 07X551,The Urban Assembly Bronx Academy of Letters,398,400,405,1203,10451,Bronx
 07X600,Alfred E. Smith Career and Technical Education Hig,390,373,371,1134,10451,Bronx
-07X655,Samuel Gompers Career and Technical Education High,,,,0,10455,Bronx
+07X655,Samuel Gompers Career and Technical Education High,,,,,10455,Bronx
 07X670,Health Opportunities High School,374,386,382,1142,10451,Bronx
 08X269,Bronx Studio School for Writers and Artists,417,412,403,1232,10459,Bronx
 08X282,Women's Academy of Excellence,386,390,389,1165,10473,Bronx
 08X293,Renaissance High School for Musical Theater & Tech,390,411,393,1194,10461,Bronx
-08X295,Gateway School for Environmental Research and Tech,,,,0,,Bronx
+08X295,Gateway School for Environmental Research and Tech,,,,,,Bronx
 08X305,Pablo Neruda Academy,394,384,383,1161,10473,Bronx
 08X312,Millennium Art Academy,396,413,395,1204,10473,Bronx
-08X320,Pelham Lab High School,,,,0,10461,Bronx
+08X320,Pelham Lab High School,,,,,10461,Bronx
 08X332,Holcombe L. Rucker School of Community Research,376,372,369,1117,10459,Bronx
-08X348,Schuylerville Preparatory High School,,,,0,10461,Bronx
-08X349,Bronx River High School,,,,0,10461,Bronx
+08X348,Schuylerville Preparatory High School,,,,,10461,Bronx
+08X349,Bronx River High School,,,,,10461,Bronx
 08X367,"Archimedes Academy for Math, Science and Technolog",418,430,403,1251,10473,Bronx
 08X376,Antonia Pantoja Preparatory Academy: A College Boa,435,415,423,1273,10473,Bronx
 08X405,Herbert H. Lehman High School,426,419,407,1252,10461,Bronx
-08X432,BRONX BRIDGES HIGH SCHOOL,,,,0,10473,Bronx
+08X432,BRONX BRIDGES HIGH SCHOOL,,,,,10473,Bronx
 08X452,Bronx Guild,365,393,357,1115,10473,Bronx
 08X519,Felisa Rincon de Gautier Institute for Law and Pub,389,408,413,1210,10473,Bronx
 08X530,Banana Kelly High School,378,391,378,1147,10459,Bronx
-08X558,Westchester Square Academy,,,,0,10461,Bronx
-08X559,School for Tourism and Hospitality,,,,0,,Bronx
-08X561,Bronx Compass High School,,,,0,10473,Bronx
+08X558,Westchester Square Academy,,,,,10461,Bronx
+08X559,School for Tourism and Hospitality,,,,,,Bronx
+08X561,Bronx Compass High School,,,,,10473,Bronx
 08X650,Jane Addams High School for Academic Careers,342,360,354,1056,10456,Bronx
 09X227,Bronx Collegiate Academy,395,401,382,1178,10457,Bronx
 09X231,Eagle Academy for Young Men,398,410,397,1205,10457,Bronx
@@ -152,10 +152,10 @@ DBN,School Name,Average Score SAT Math,Average Score SAT Critical Reading,Averag
 09X252,Mott Hall Bronx High School,417,399,398,1214,10457,Bronx
 09X260,Bronx Center for Science and Mathematics,513,468,485,1466,10456,Bronx
 09X263,Validus Preparatory Academy: An Expeditionary Lear,382,375,384,1141,10457,Bronx
-09X276,Leadership Institute,,,,0,10457,Bronx
+09X276,Leadership Institute,,,,,10457,Bronx
 09X297,Morris Academy for Collaborative Studies,407,389,386,1182,10456,Bronx
 09X324,Bronx Early College Academy for Teaching & Learnin,424,413,409,1246,10456,Bronx
-09X327,Comprehensive Model School Project M.S. 327,,,,0,10452,Bronx
+09X327,Comprehensive Model School Project M.S. 327,,,,,10452,Bronx
 09X329,DreamYard Preparatory School,385,385,388,1158,10457,Bronx
 09X365,Academy for Language and Technology,371,334,348,1053,10453,Bronx
 09X403,Bronx International High School,355,330,320,1005,10456,Bronx
@@ -167,18 +167,18 @@ DBN,School Name,Average Score SAT Math,Average Score SAT Critical Reading,Averag
 09X517,Frederick Douglass Academy III Secondary School,387,386,386,1159,10456,Bronx
 09X525,Bronx Leadership Academy High School,375,372,374,1121,10457,Bronx
 09X543,High School for Violin and Dance,363,401,396,1160,10456,Bronx
-09X564,Claremont International HS,,,,0,10457,Bronx
+09X564,Claremont International HS,,,,,10457,Bronx
 10X141,Riverdale / Kingsbridge Academy (Middle School / H,496,485,476,1457,10463,Bronx
 10X213,Bronx Engineering and Technology Academy,394,406,391,1191,10463,Bronx
 10X225,Theatre Arts Production Company School,402,421,410,1233,10457,Bronx
 10X237,"The Marie Curie School for Medicine, Nursing, and",423,420,425,1268,10463,Bronx
 10X243,West Bronx Academy for the Future,404,383,378,1165,10458,Bronx
-10X264,Bronx Academy for Software Engineering (BASE),,,,0,10458,Bronx
+10X264,Bronx Academy for Software Engineering (BASE),,,,,10458,Bronx
 10X268,Kingsbridge International High School,366,311,310,987,10468,Bronx
 10X284,Bronx School of Law and Finance,384,394,366,1144,10463,Bronx
 10X342,International School for Liberal Arts,390,387,379,1156,10468,Bronx
-10X351,Bronx Collaborative High School,,,,0,,Bronx
-10X353,World View High School,,,,0,10468,Bronx
+10X351,Bronx Collaborative High School,,,,,,Bronx
+10X353,World View High School,,,,,10468,Bronx
 10X368,In-Tech Academy (M.S. / High School 368),426,419,404,1249,10463,Bronx
 10X374,Knowledge and Power Preparatory Academy Internatio,408,417,404,1229,10458,Bronx
 10X433,High School for Teaching and the Professions,372,361,369,1102,10468,Bronx
@@ -190,10 +190,10 @@ DBN,School Name,Average Score SAT Math,Average Score SAT Critical Reading,Averag
 10X442,"Celia Cruz Bronx High School of Music, The",417,434,425,1276,10468,Bronx
 10X445,Bronx High School of Science,714,660,667,2041,10468,Bronx
 10X477,Marble Hill High School for International Studies,451,417,423,1291,10463,Bronx
-10X524,Crotona International High School,,,,0,10458,Bronx
+10X524,Crotona International High School,,,,,10458,Bronx
 10X546,Bronx Theatre High School,382,384,390,1156,10463,Bronx
 10X549,Discovery High School,432,396,395,1223,10468,Bronx
-10X565,High School for Energy and Technology,,,,0,10458,Bronx
+10X565,High School for Energy and Technology,,,,,10458,Bronx
 10X660,Grace Dodge Career and Technical Education High Sc,343,366,346,1055,10468,Bronx
 10X696,High School of American Studies at Lehman College,669,672,672,2013,10468,Bronx
 11X249,Bronx Health Sciences High School,407,421,427,1255,10475,Bronx
@@ -243,7 +243,7 @@ DBN,School Name,Average Score SAT Math,Average Score SAT Critical Reading,Averag
 13K670,Benjamin Banneker Academy,479,484,472,1435,11205,Brooklyn
 13K674,"City Polytechnic High School of Engineering, Archi",503,477,427,1407,11201,Brooklyn
 14K071,Juan Morel Campos Secondary School,366,356,353,1075,11206,Brooklyn
-14K322,Foundations Academy,,,,0,,Brooklyn
+14K322,Foundations Academy,,,,,,Brooklyn
 14K449,"Brooklyn Latin School, The",625,588,591,1804,11206,Brooklyn
 14K454,Green School: An Academy for Environmental Careers,384,398,399,1181,11206,Brooklyn
 14K474,PROGRESS High School for Professional Careers,380,377,384,1141,11211,Brooklyn
@@ -254,7 +254,7 @@ DBN,School Name,Average Score SAT Math,Average Score SAT Critical Reading,Averag
 14K561,Williamsburg Preparatory School,443,440,430,1313,11211,Brooklyn
 14K586,Lyons Community School,374,376,357,1107,11206,Brooklyn
 14K610,Automotive High School,367,381,328,1076,11222,Brooklyn
-14K614,Young Women's Leadership School of Brooklyn,,,,0,11206,Brooklyn
+14K614,Young Women's Leadership School of Brooklyn,,,,,11206,Brooklyn
 14K632,Frances Perkins Academy,399,413,400,1212,11222,Brooklyn
 14K685,El Puente Academy for Peace and Justice,344,380,379,1103,11211,Brooklyn
 15K429,Brooklyn School for Global Studies,393,381,402,1176,11201,Brooklyn
@@ -264,16 +264,16 @@ DBN,School Name,Average Score SAT Math,Average Score SAT Critical Reading,Averag
 15K464,Park Slope Collegiate,405,377,395,1177,11215,Brooklyn
 15K497,School for International Studies,417,406,394,1217,11201,Brooklyn
 15K519,Cobble Hill School of American Studies,416,420,402,1238,11201,Brooklyn
-15K592,Khalil Gibran International Academy,,,,0,11217,Brooklyn
+15K592,Khalil Gibran International Academy,,,,,11217,Brooklyn
 15K656,Brooklyn High School of the Arts,439,441,436,1316,11217,Brooklyn
 15K667,Sunset Park High School,398,380,381,1159,11232,Brooklyn
 15K684,Millennium Brooklyn HS,553,551,539,1643,11215,Brooklyn
-16K393,Frederick Douglass Academy IV Secondary School,,,,0,11221,Brooklyn
+16K393,Frederick Douglass Academy IV Secondary School,,,,,11221,Brooklyn
 16K455,Boys and Girls High School,399,392,394,1185,11213,Brooklyn
 16K498,Brooklyn High School for Law and Technology,395,401,383,1179,11221,Brooklyn
 16K594,Gotham Professional Arts Academy,377,396,386,1159,11233,Brooklyn
 16K688,The Brooklyn Academy of Global Finance,395,382,391,1168,11221,Brooklyn
-16K765,Nelson Mandela High School,,,,0,,Brooklyn
+16K765,Nelson Mandela High School,,,,,,Brooklyn
 17K122,Pathways in Technology Early College High School (,446,442,410,1298,11213,Brooklyn
 17K382,Academy for College Preparation and Career Explora,386,397,393,1176,11226,Brooklyn
 17K408,Academy of Hospitality and Tourism,374,385,375,1134,11226,Brooklyn
@@ -284,13 +284,13 @@ DBN,School Name,Average Score SAT Math,Average Score SAT Critical Reading,Averag
 17K537,High School for Youth and Community Development at,360,382,359,1101,11226,Brooklyn
 17K539,High School for Service & Learning at Erasmus,377,382,356,1115,,Brooklyn
 17K543,"Science, Technology and Research Early College Hig",496,491,484,1471,11226,Brooklyn
-17K544,International Arts Business School,,,,0,,Brooklyn
+17K544,International Arts Business School,,,,,,Brooklyn
 17K546,High School for Public Service: Heroes  of Tomorro,468,454,464,1386,11203,Brooklyn
 17K547,Brooklyn Academy of Science and the Environment,419,411,416,1246,11225,Brooklyn
 17K548,Brooklyn School for Music & Theatre,382,393,377,1152,11225,Brooklyn
 17K590,Medgar Evers College Preparatory School,525,500,481,1506,11225,Brooklyn
 17K600,Clara Barton High School,408,424,407,1239,11225,Brooklyn
-17K745,Brooklyn Institute for Liberal Arts,,,,0,11203,Brooklyn
+17K745,Brooklyn Institute for Liberal Arts,,,,,11203,Brooklyn
 17K751,Academy for Health Careers,406,405,396,1207,11213,Brooklyn
 18K563,It Takes a Village Academy,364,374,361,1099,11203,Brooklyn
 18K566,Brooklyn Generation School,392,406,403,1201,11236,Brooklyn
@@ -316,7 +316,7 @@ DBN,School Name,Average Score SAT Math,Average Score SAT Critical Reading,Averag
 19K659,Cypress Hills Collegiate Preparatory School,365,370,362,1097,11208,Brooklyn
 19K660,W. H. Maxwell Career and Technical Education High,326,333,350,1009,11207,Brooklyn
 19K683,"The School for Classics: An Academy of Thinkers, W",387,391,383,1161,11208,Brooklyn
-19K764,The Urban Assembly School for Collaborative Health,,,,0,11208,Brooklyn
+19K764,The Urban Assembly School for Collaborative Health,,,,,11208,Brooklyn
 20K445,New Utrecht High School,488,422,417,1327,11214,Brooklyn
 20K485,High School of  Telecommunication Arts and Technol,475,440,445,1360,11220,Brooklyn
 20K490,Fort Hamilton High School,513,456,451,1420,11209,Brooklyn
@@ -338,12 +338,12 @@ DBN,School Name,Average Score SAT Math,Average Score SAT Critical Reading,Averag
 22K495,Sheepshead Bay High School,381,382,367,1130,11235,Brooklyn
 22K535,Leon M. Goldstein High School for the Sciences,563,534,543,1640,11235,Brooklyn
 22K555,Brooklyn College Academy,502,495,493,1490,11218,Brooklyn
-22K611,Origins High School,,,,0,11235,Brooklyn
+22K611,Origins High School,,,,,11235,Brooklyn
 23K493,Brooklyn Collegiate: A College Board School,394,395,399,1188,11233,Brooklyn
 23K514,Frederick Douglass Academy VII High School,400,407,394,1201,11212,Brooklyn
-23K644,Eagle Academy for Young Men II,,,,0,11233,Brooklyn
+23K644,Eagle Academy for Young Men II,,,,,11233,Brooklyn
 23K697,Teachers Preparatory High School,394,399,412,1205,11212,Brooklyn
-24Q236,International High School for Health Sciences,,,,0,11373,Queens
+24Q236,International High School for Health Sciences,,,,,11373,Queens
 24Q264,Academy of Finance and  Enterprise,489,456,459,1404,11101,Queens
 24Q267,High School of Applied Communication,435,437,441,1313,11101,Queens
 24Q293,Civic Leadership Academy,435,424,418,1277,11373,Queens
@@ -358,8 +358,8 @@ DBN,School Name,Average Score SAT Math,Average Score SAT Critical Reading,Averag
 24Q585,Maspeth High School,476,471,480,1427,11373,Queens
 24Q600,Queens Vocational and Technical High School,467,436,432,1335,11101,Queens
 24Q610,Aviation Career & Technical Education High School,511,464,456,1431,11101,Queens
-25Q240,Veritas Academy,,,,0,11354,Queens
-25Q241,Queens High School for Language Studies,,,,0,11354,Queens
+25Q240,Veritas Academy,,,,,11354,Queens
+25Q241,Queens High School for Language Studies,,,,,11354,Queens
 25Q252,"Queens School of Inquiry, The",516,493,486,1495,11366,Queens
 25Q263,Flushing International High School,481,323,323,1127,11355,Queens
 25Q281,East-West School of International Studies,521,457,451,1429,11355,Queens
@@ -368,7 +368,7 @@ DBN,School Name,Average Score SAT Math,Average Score SAT Critical Reading,Averag
 25Q460,Flushing High School,444,407,405,1256,11354,Queens
 25Q525,Townsend Harris High School,680,640,661,1981,11367,Queens
 25Q670,Robert F. Kennedy Community High School,460,426,423,1309,11366,Queens
-26Q315,Business Technology Early College High School,,,,0,11427,Queens
+26Q315,Business Technology Early College High School,,,,,11427,Queens
 26Q415,Benjamin N. Cardozo High School,563,505,510,1578,11364,Queens
 26Q430,Francis Lewis High School,562,483,485,1530,11365,Queens
 26Q435,Martin Van Buren High School,397,396,391,1184,11427,Queens
@@ -379,17 +379,17 @@ DBN,School Name,Average Score SAT Math,Average Score SAT Critical Reading,Averag
 27Q302,"Queens High School for Information, Research, and",372,362,352,1086,11691,Queens
 27Q308,Robert H. Goddard High School of Communication Art,426,435,424,1285,11417,Queens
 27Q309,Academy of Medical Technology: A College Board Sch,422,424,415,1261,11691,Queens
-27Q314,Epic High School - South,,,,0,11420,Queens
+27Q314,Epic High School - South,,,,,11420,Queens
 27Q323,Scholars' Academy,588,560,568,1716,11694,Queens
 27Q324,Rockaway Park High School for Environmental Sustai,357,381,376,1114,11694,Queens
-27Q334,Epic High School - North,,,,0,11419,Queens
+27Q334,Epic High School - North,,,,,11419,Queens
 27Q351,Rockaway Collegiate High School,399,403,405,1207,11694,Queens
 27Q400,August Martin High School,366,372,364,1102,11434,Queens
 27Q475,Richmond Hill High School,413,406,399,1218,11418,Queens
 27Q480,John Adams High School,418,401,395,1214,11417,Queens
 27Q650,"High School for Construction Trades, Engineering a",489,457,451,1397,11416,Queens
-28Q157,J.H.S. 157 Stephen A. Halsey,,,,0,11374,Queens
-28Q167,Metropolitan Expeditionary Learning School,,,,0,11375,Queens
+28Q157,J.H.S. 157 Stephen A. Halsey,,,,,11374,Queens
+28Q167,Metropolitan Expeditionary Learning School,,,,,11375,Queens
 28Q284,York Early College Academy,496,481,473,1450,11433,Queens
 28Q310,Queens Collegiate: A College Board School,455,439,441,1335,11432,Queens
 28Q325,Hillside Arts & Letters Academy,409,399,404,1212,11432,Queens
@@ -403,20 +403,20 @@ DBN,School Name,Average Score SAT Math,Average Score SAT Critical Reading,Averag
 28Q687,Queens High School for the Sciences at York Colleg,701,621,625,1947,11451,Queens
 28Q690,High School for Law Enforcement and Public Safety,410,431,409,1250,11434,Queens
 28Q896,"Young Women's Leadership School, Queens",415,420,433,1268,11432,Queens
-29Q243,Institute for Health Professions at Cambria Height,,,,0,11411,Queens
+29Q243,Institute for Health Professions at Cambria Height,,,,,11411,Queens
 29Q248,Queens Preparatory Academy,423,422,403,1248,11413,Queens
 29Q259,Pathways College Preparatory School: A College Boa,405,427,409,1241,11412,Queens
 29Q265,Excelsior Preparatory High School,384,407,400,1191,11413,Queens
 29Q272,George Washington Carver High School for the Scien,439,428,419,1286,11413,Queens
 29Q283,Preparatory Academy for Writers: A College Board S,398,410,393,1201,11413,Queens
-29Q313,Benjamin Franklin High School for Finance & Inform,,,,0,11411,Queens
+29Q313,Benjamin Franklin High School for Finance & Inform,,,,,11411,Queens
 29Q326,Cambria Heights Academy,418,424,411,1253,11423,Queens
-29Q327,Eagle Academy for Young Men III,,,,0,11434,Queens
+29Q327,Eagle Academy for Young Men III,,,,,11434,Queens
 29Q492,"Mathematics, Science Research and Technology Magne",380,418,388,1186,11411,Queens
 29Q494,"Law, Government and Community Service High School",387,386,388,1161,11411,Queens
 29Q496,"Business, Computer Applications & Entrepreneurship",382,402,364,1148,11411,Queens
 29Q498,Humanities & Arts Magnet High School,384,409,401,1194,11411,Queens
-30Q258,Energy Tech High School,,,,0,,Queens
+30Q258,Energy Tech High School,,,,,,Queens
 30Q286,"Young Women's Leadership School, Astoria",483,464,477,1424,11102,Queens
 30Q301,Academy for Careers in Television and Film,444,458,444,1346,11101,Queens
 30Q445,William Cullen Bryant High School,466,424,426,1316,11103,Queens
@@ -436,43 +436,43 @@ DBN,School Name,Average Score SAT Math,Average Score SAT Critical Reading,Averag
 31R460,Susan E. Wagner High School,496,490,487,1473,10314,Staten_Island
 31R600,Ralph R. McKee Career and Technical Education High,420,429,409,1258,10301,Staten_Island
 31R605,Staten Island Technical High School,711,660,670,2041,10306,Staten_Island
-32K168,The Brooklyn School for Math and Research,,,,0,11237,Brooklyn
+32K168,The Brooklyn School for Math and Research,,,,,11237,Brooklyn
 32K403,Academy for Environmental Leadership,365,366,348,1079,11237,Brooklyn
 32K545,EBC High School for Public Service - Bushwick,389,374,378,1141,11221,Brooklyn
 32K549,Bushwick School for Social Justice,365,357,357,1079,11237,Brooklyn
 32K552,Academy of Urban Planning,392,374,379,1145,11221,Brooklyn
 32K554,All City Leadership Secondary School,467,446,448,1361,11237,Brooklyn
 32K556,Bushwick Leaders High School for Academic Excellen,393,368,382,1143,11221,Brooklyn
-84K355,Williamsburg Collegiate Charter School,,,,0,,Brooklyn
+84K355,Williamsburg Collegiate Charter School,,,,,,Brooklyn
 84K356,Achievement First Crown Heights Charter School,484,421,431,1336,11203,Brooklyn
 84K357,KIPP AMP Charter School,452,411,418,1281,11213,Brooklyn
-84K358,Achievement First East New York Charter School,,,,0,,Brooklyn
+84K358,Achievement First East New York Charter School,,,,,,Brooklyn
 84K359,The Uft Charter School,386,374,373,1133,11207,Brooklyn
 84K473,Williamsburg Charter High School,406,408,395,1209,11206,Brooklyn
 84K508,Achievement First Endeavor Charter School,452,426,452,1330,11238,Brooklyn
 84K538,Achievement First Bushwick Charter School,507,448,478,1433,11221,Brooklyn
-84K593,Excellence Boys Charter School,,,,0,11233,Brooklyn
-84K608,Kings Collegiate Charter School,,,,0,,Brooklyn
-84K648,Bedford Stuyvesant Collegiate -Uncommon Collegiate,,,,0,,Brooklyn
+84K593,Excellence Boys Charter School,,,,,11233,Brooklyn
+84K608,Kings Collegiate Charter School,,,,,,Brooklyn
+84K648,Bedford Stuyvesant Collegiate -Uncommon Collegiate,,,,,,Brooklyn
 84K693,Northside Charter High School,397,411,402,1210,11222,Brooklyn
-84K707,Brooklyn Prospect Charter School,,,,0,,Brooklyn
-84K710,Brownsville Collegiate Charter School,,,,0,,Brooklyn
-84K730,Summit Academy Charter School,,,,0,11231,Brooklyn
-84K733,"Math, Engineering, and Science Academy Charter Hig",,,,0,,Brooklyn
-84K738,New Visions Charter High School for Advanced Math,,,,0,11235,Brooklyn
-84K739,New Visions Charter High School for the Humanities,,,,0,,Brooklyn
-84K744,Coney Island Preparatory Public Charter School,,,,0,11224,Brooklyn
-84K777,Ocean Hill Collegiate Charter School,,,,0,,Brooklyn
-84K780,Brooklyn East Collegiate Charter School,,,,0,,Brooklyn
+84K707,Brooklyn Prospect Charter School,,,,,,Brooklyn
+84K710,Brownsville Collegiate Charter School,,,,,,Brooklyn
+84K730,Summit Academy Charter School,,,,,11231,Brooklyn
+84K733,"Math, Engineering, and Science Academy Charter Hig",,,,,,Brooklyn
+84K738,New Visions Charter High School for Advanced Math,,,,,11235,Brooklyn
+84K739,New Visions Charter High School for the Humanities,,,,,,Brooklyn
+84K744,Coney Island Preparatory Public Charter School,,,,,11224,Brooklyn
+84K777,Ocean Hill Collegiate Charter School,,,,,,Brooklyn
+84K780,Brooklyn East Collegiate Charter School,,,,,,Brooklyn
 84M279,The Opportunity Charter School,369,382,365,1116,10026,New_York
-84M284,Harlem Children's Zone Promise Academy 1 Charter S,,,,0,,New_York
+84M284,Harlem Children's Zone Promise Academy 1 Charter S,,,,,,New_York
 84M335,Harlem Village Academy Leadership Charter School,480,463,465,1408,10001,New_York
 84M336,KIPP Infinity Charter School,489,441,432,1362,10027,New_York
-84M341,Harlem Children's Zone Promise Academy II Charter,,,,0,,New_York
+84M341,Harlem Children's Zone Promise Academy II Charter,,,,,,New_York
 84M350,Democracy Prep Charter School,505,467,497,1469,,New_York
 84M353,New Heights Academy Charter School,457,415,406,1278,10031,New_York
 84M433,Renaissance Charter High School for Innovation,372,393,389,1154,10029,New_York
-84M481,Democracy Prep Harlem Charter School,,,,0,,New_York
+84M481,Democracy Prep Harlem Charter School,,,,,,New_York
 84M709,Harlem Village Academy Charter School,487,467,456,1410,10027,New_York
 84M726,KIPP STAR College Prep Charter School,455,418,411,1284,10451,New_York
 84Q705,Renaissance Charter School,459,452,481,1392,11372,New_York
